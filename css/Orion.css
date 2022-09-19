@@ -31,13 +31,12 @@
     box-sizing: border-box;
 }
 
-html{
-    overflow-x: auto;  
+.f-contenedor{
+    overflow-x: hidden;
 }
 
 body{
     background-color: rgb(250, 250, 250);
-    overflow-x: auto;
 }
 
 /*Header*/
